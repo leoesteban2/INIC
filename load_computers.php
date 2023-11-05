@@ -15,7 +15,7 @@ $computers = [
   [
     "name" => "Acer Aspire 5 A515-56-347N",
     "description" => "Pantalla HD de 15.6\", procesador Intel Core i3-1115G4, 32 GB de RAM, SSD de 1 TB, Wi-Fi, lector de tarjetas SD, HDMI, cámara web, Windows 11 Home, azul abeto, accesorios KKE",
-    "price" => "Q4000"
+    "price" => "Q2000"
   ]
   // ... otros productos
 ];
